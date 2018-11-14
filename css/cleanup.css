@@ -15,4 +15,6 @@
   display: none;
 }
 
-div#wall
+#wall div {
+  display: none;
+}
